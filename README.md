@@ -1,10 +1,12 @@
-# <img src="assets/icons/notebookLM.svg" alt="notebookLM Logo" height="30" align="center"> MiniGuia Estudos NotebookLM
+# <img src="assets/icons/notebookLM.svg" width="30" height="30"> MiniGuia Estudos NotebookLM
 
 # Introdução
 
 Este projeto foi desenvolvido como desafio final do módulo 1 do bootcamp "Accenture - Python para Análise e Automação de Dados", oferecido pela DIO.
 
 O projeto foi elaborado em 04/05/2026 e representa uma aplicação prática do conteúdo estudado durante o bootcamp.
+
+> bootcamp: [Accenture - Python para Análise e Automação de Dados](https://web.dio.me/track/accenture-python-analise-automacao-de-dados)
 
 # Contexto
 
